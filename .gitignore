@@ -1,0 +1,4 @@
+/.direnv/
+*.ali
+*.o
+/day_*.exe
